@@ -1,4 +1,4 @@
-# Calculadora Científica
+# Calculadora
 
 Este é um projeto de uma calculadora científica simples desenvolvida com HTML, CSS e JavaScript.
 
